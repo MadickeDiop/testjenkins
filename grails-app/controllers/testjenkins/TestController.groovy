@@ -6,9 +6,8 @@ class TestController {
         render "test jenkins"
     }
 
-    def test({
-
-
+    def test(){
+        render  "correct test method"
 
     }
 }
