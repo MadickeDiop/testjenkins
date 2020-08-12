@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1e7aae37-d894-4c84-bbe5-e3ed25bd82a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testjenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testjenkins.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grails-app/controllers/testjenkins/TestController.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/grails-app/controllers/testjenkins/TestController.groovy" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597150147182</updated>
       <workItem from="1597150151881" duration="689000" />
-      <workItem from="1597222639760" duration="221000" />
+      <workItem from="1597222639760" duration="1064000" />
     </task>
     <servers />
   </component>
