@@ -10,4 +10,8 @@ class TestController {
         render  "correct test method"
 
     }
+
+    def notifiedjenkins(){
+
+    }
 }
