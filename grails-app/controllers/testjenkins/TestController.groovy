@@ -12,6 +12,7 @@ class TestController {
     }
 
     def notifiedjenkins(){
+        render "test jenkins emails notification"
 
     }
 }
