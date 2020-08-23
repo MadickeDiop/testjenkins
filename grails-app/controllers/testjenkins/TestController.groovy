@@ -11,8 +11,12 @@ class TestController {
 
     }
 
-    def notifiedjenkins{
+    def notifiedjenkins(){
         render "test jenkins emails notification"
 
     }
+
+    def jenkinsdetecterror{
+        render "error must detected by jenkins"
+    },
 }
