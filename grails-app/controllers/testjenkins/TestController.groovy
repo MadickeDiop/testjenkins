@@ -16,7 +16,10 @@ class TestController {
 
     }
 
-    def jenkinsdetecterror{
-        render "error must detected by jenkins"
-    },
+
+    def test2(){
+        render  "correct test method"
+
+    }
+    
 }
